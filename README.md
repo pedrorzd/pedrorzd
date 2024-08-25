@@ -1,5 +1,6 @@
 <div>
 <img align="center" alt="Header" src="img/github-header-image (1).png">
+
 </div>
 
 <div align="center">
@@ -17,6 +18,7 @@
 <td><a href="https://www.instagram.com/pedrorz__/" target="_blank"><img src="img/instagram.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/pedro-rodrigues-748177323/" target="_blank"><img src="img/linkedin.png" width="50px" height="50px"/></a>
+
 </td>
 
 </tr>
@@ -80,8 +82,8 @@ Támbem gosto de <code>rock</code>, escuto Foo Fighters, Pink Floyd, David Bowie
 </div>
 </td>
 <td>
-<div>
-<img align="rigth" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="550px"/>
+<div align="rigth">
+<img alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="550px"/>
 </div>
 </td>
 </tr>
