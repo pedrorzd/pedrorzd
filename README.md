@@ -81,7 +81,7 @@ Támbem gosto de <code>rock</code>, escuto Foo Fighters, Pink Floyd, David Bowie
 </td>
 <td>
 <div>
-<img alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="550px"/>
+<img align="rigth" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="550px"/>
 </div>
 </td>
 </tr>
