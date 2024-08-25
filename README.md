@@ -35,6 +35,33 @@
 </div>
 
 ---
+<div>
+
+<img height="20" alt="GIF" src="img/lista.gif"/>&nbsp;Linguagens e ferramentas:
+
+<div>
+ <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png"/></code>
+&nbsp; 
+ <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png"/></code>
+&nbsp; 
+ <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/html.svg"/></code>
+&nbsp; 
+ <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/css.svg"/></code>
+&nbsp; 
+ <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/js.png"/></code>
+&nbsp; 
+ <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mysql.png"/></code>
+&nbsp; 
+ <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/git.png"/></code>
+&nbsp; 
+ <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github.png"/></code>
+&nbsp; 
+ <code><img height="32" src="img/7564187_figma_logo_brand_icon.png"/></code>
+&nbsp;
+
+</div>
+
+----------
 
 <img height="20" alt="GIF" src="img/perfil.gif"/>Curiosidades Pessoais:
 
@@ -63,33 +90,5 @@ Támbem gosto de rock, escuto Foo Fighters, Pink Floyd, David Bowie e meus favor
  <td align="center" colspan="2"></td>
 </tr> 
 </table>
-
-</div>
-
----
-
-<div>
-
-<img height="20" alt="GIF" src="img/lista.gif"/>&nbsp;Linguagens e ferramentas:
-
-<div>
- <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png"/></code>
-&nbsp; 
- <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png"/></code>
-&nbsp; 
- <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/html.svg"/></code>
-&nbsp; 
- <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/css.svg"/></code>
-&nbsp; 
- <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/js.png"/></code>
-&nbsp; 
- <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mysql.png"/></code>
-&nbsp; 
- <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/git.png"/></code>
-&nbsp; 
- <code><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github.png"/></code>
-&nbsp; 
- <code><img height="32" src="img/7564187_figma_logo_brand_icon.png"/></code>
-&nbsp;
 
 </div>
