@@ -1,8 +1,6 @@
----
 <div>
-<img align="center" alt="Header" src="img/github-header-image (1).png"
+<img align="center" alt="Header" src="img/github-header-image (1).png">
 </div>
----
 
 <div align="center">
 <table>
@@ -35,6 +33,7 @@
 </div>
 
 ---
+
 <div>
 
 <img height="20" alt="GIF" src="img/lista.gif"/>&nbsp;Linguagens e ferramentas:
@@ -61,7 +60,7 @@
 
 </div>
 
-----------
+---
 
 <img height="20" alt="GIF" src="img/perfil.gif"/>Curiosidades Pessoais:
 
@@ -71,12 +70,12 @@
 - &#127891; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> nos cursos de Análise e Desenvolvimento de Sistemas e penso em futuramente em fazer Sistemas de Informação. <br />
 - :soccer: Nasci atleticano e serei para sempre, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão da massa</a>. :rooster:<br />
 - &#127942; Meus hobbies são, escutar música, jogar videogame, ver filmes e conversar com meus amigos.<br/>
-- &#127925; Meus estilos de musicas favoritos são: Música eletrônica, como house, tech house, deep house, melodic techno e outros.
-Támbem gosto de rock, escuto Foo Fighters, Pink Floyd, David Bowie e meus favoritos Red Hot Chilli Peppers. No mais, escuto praticamente todos os tipos de músicas.
-- &#127918; Hoje em dia jogo mais FPS Online, como Battlefield 2042, porém támbem gosto de jogos com apenas modo história, estou zerando Ghost Of Tsushima.
-- 	&#128253; Meus filmes preferidos são, Interestelar, Ilha do Medo e A origem. 
-- :speech_balloon: Gosto de solucionar problemas.<br />
-- :mailbox: Para me encontrar, este é meu <a href="mailto:pedrohrodrigues86@gmail.com" target="_blank">e-mail.</a><br />
+- &#127925; Meus estilos de musicas favoritos são:<code> Música eletrônica</code>, como house, tech house, deep house, melodic techno e outros.</br>
+Támbem gosto de <code>rock</code>, escuto Foo Fighters, Pink Floyd, David Bowie e meus favoritos Red Hot Chilli Peppers. No mais, escuto praticamente todos os tipos de músicas.</br>
+- &#127918; Hoje em dia jogo mais <code>FPS Online</code>, como Battlefield 2042, porém támbem gosto de jogos com apenas modo história, <code>estou zerando Ghost Of Tsushima</code>.</br>
+- 	&#128253; Meus filmes preferidos são, <code>Interestelar</code>, <code>Ilha do Medo</code> e <code>A origem</code>.</br>
+- :speech_balloon: Gosto de solucionar problemas.<br/>
+- :mailbox: Para me encontrar, este é meu <a href="mailto:pedrohrodrigues86@gmail.com" target="_blank">e-mail.</a><br/>
 </p>
 </div>
 </td>
