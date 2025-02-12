@@ -30,7 +30,7 @@
 </div>
 <div align="justify">
 
-<i><b>Olá</b> :wave:, sou o <code>Pedro Rodrigues</code>, tenho 21 anos, moro em BH e sou estutande e futuro programador Front-end. Atualmente curso <code>Ánalise e Desenvolvimento de sistenas</code>na <a href="https://newtonpaiva.br" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Pedro Rodrigues</code>, tenho 21 anos, moro em BH e sou estutande e futuro desenvolvedor de software. Atualmente curso <code>Ánalise e Desenvolvimento de sistenas</code>na <a href="https://newtonpaiva.br" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
 
 </div>
 
@@ -70,13 +70,12 @@
 <p> 
 - &#129340; Sou graduado <code>faixa preta</code> em Hapkido, a arte marcial de defesa pessoal coreana.<br />
 - &#127891; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> nos cursos de Análise e Desenvolvimento de Sistemas e penso em futuramente em fazer Sistemas de Informação. <br />
-- :soccer: Nasci atleticano e serei para sempre, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão da massa</a>. :rooster:<br />
+- :soccer: Nasci atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão da massa</a>. :rooster:<br />
 - &#127942; Meus hobbies são, escutar música, jogar videogame, ver filmes e conversar com meus amigos.<br/>
-- &#127925; Meus estilos de musicas favoritos são:<code> Música eletrônica</code>, como house, tech house, deep house, melodic techno e outros.</br>
-Támbem gosto de <code>rock</code>, escuto Foo Fighters, Pink Floyd, David Bowie e meus favoritos Red Hot Chilli Peppers. No mais, escuto praticamente todos os tipos de músicas.</br>
+- &#127925; Meus estilos de musicas favoritos são:<code> Música eletrônica, rock progressivo, MBP e alguns outros. <br/>
 - &#127918; Hoje em dia jogo mais <code>FPS Online</code>, como Battlefield 2042, porém támbem gosto de jogos com apenas modo história, <code>estou zerando Ghost Of Tsushima</code>.</br>
 - 	&#128253; Meus filmes preferidos são, <code>Interestelar</code>, <code>Ilha do Medo</code> e <code>A origem</code>.</br>
-- :speech_balloon: Gosto de solucionar problemas.<br/>
+- :speech_balloon: Gosto de solucionar problemas usando a lógica. <br/>
 - :mailbox: Para me encontrar, este é meu <a href="mailto:pedrohrodrigues86@gmail.com" target="_blank">e-mail.</a><br/>
 </p>
 </div>
