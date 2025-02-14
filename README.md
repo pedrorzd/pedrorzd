@@ -79,13 +79,9 @@
 - &#128232; Para me encontrar, este é meu <a href="mailto:pedrohrodrigues86@gmail.com" target="_blank">e-mail.</a><br/>
 </p>
 </div>
-</td>
-<td>
 <div >
 <img alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/developer.gif"/>
 </div>
-</td>
-</tr>
 <tr>
  <td align="center" colspan="2"></td>
 </tr> 
