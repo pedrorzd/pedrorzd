@@ -75,8 +75,8 @@
 - &#127925; Meus estilos de musicas favoritos são:<code> Música eletrônica, rock progressivo, MBP e alguns outros. <br/>
 - &#127918; Hoje em dia jogo mais <code>FPS Online</code>, como Battlefield 2042, porém támbem gosto de jogos com apenas modo história, <code>estou zerando Ghost Of Tsushima</code>.</br>
 - &#128253; Meus filmes preferidos são, <code>Interestelar</code>, <code>Ilha do Medo</code> e <code>A origem</code>.</br>
-- :speech_balloon: Gosto de solucionar problemas usando a lógica. <br/>
-- :mailbox: Para me encontrar, este é meu <a href="mailto:pedrohrodrigues86@gmail.com" target="_blank">e-mail.</a><br/>
+- &#128161; Gosto de solucionar problemas usando a lógica. <br/>
+- &#128232; Para me encontrar, este é meu <a href="mailto:pedrohrodrigues86@gmail.com" target="_blank">e-mail.</a><br/>
 </p>
 </div>
 </td>
