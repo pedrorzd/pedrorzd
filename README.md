@@ -9,15 +9,15 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="img/github.png" width="50px" height="50px"/></a>
+<td><a href="https://github.com/pedrorzd" target="_blank"><img src="img/github2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:pedrohrodrigues86@gmail.com" target="_blank"><img src="img/gmail.png" width="50px" height="50px"/></a>
+<td><a href="mailto:pedrohrodrigues86@gmail.com" target="_blank"><img src="img/email2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531983757749" target="_blank"><img src="img/whatsapp.png" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531983757749" target="_blank"><img src="img/whatsapp2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/pedrorz__/" target="_blank"><img src="img/instagram.png" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/pedrorz__/" target="_blank"><img src="img/instagram2.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/pedro-rodrigues-748177323/" target="_blank"><img src="img/linkedin.png" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/pedro-rodrigues-748177323/" target="_blank"><img src="img/linkedin2.png" width="50px" height="50px"/></a>
 
 </td>
 
