@@ -1,6 +1,5 @@
 <div>
 <img align="center" alt="Header" src="img/github-header-image (2).png">
-
 </div>
 
 <div align="center">
@@ -9,15 +8,15 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/pedrorzd" target="_blank"><img src="img/github2.png" width="50px" height="50px"/></a>
+<td><a href="https://github.com/pedrorzd" target="_blank"><img src="img/github2.png" width="64px" height="64px"/></a>
 </td>
-<td><a href="mailto:pedrohrodrigues86@gmail.com" target="_blank"><img src="img/email2.png" width="50px" height="50px"/></a>
+<td><a href="mailto:pedrohrodrigues86@gmail.com" target="_blank"><img src="img/email2.png" width="64px" height="64px"/></a>
 </td>
-<td><a href="https://wa.me/5531983757749" target="_blank"><img src="img/whatsapp2.png" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531983757749" target="_blank"><img src="img/whatsapp2.png" width="64px" height="64px"/></a>
 </td>
-<td><a href="https://www.instagram.com/pedrorz__/" target="_blank"><img src="img/instagram2.png" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/pedrorz__/" target="_blank"><img src="img/instagram2.png" width="64px" height="64px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/pedro-rodrigues-748177323/" target="_blank"><img src="img/linkedin2.png" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/pedro-rodrigues-748177323/" target="_blank"><img src="img/linkedin2.png" width="64px" height="64px"/></a>
 
 </td>
 
@@ -67,15 +66,15 @@
 <img height="20" alt="GIF" src="img/perfil.gif"/>Curiosidades Pessoais:
 
 <div align="justify">
-<p> 
-- &#129340; Sou graduado <code>faixa preta</code> em Hapkido, a arte marcial de defesa pessoal coreana.<br />
-- &#127891; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> nos cursos de Análise e Desenvolvimento de Sistemas e penso em futuramente em fazer Sistemas de Informação. <br />
-- :soccer: Nasci atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão da massa</a>. :rooster:<br />
-- &#127942; Meus hobbies são, escutar música, jogar videogame, ver filmes e conversar com meus amigos.<br/>
-- &#127925; Meus estilos de musicas favoritos são:<code> Música eletrônica, rock progressivo, MBP e alguns outros. <br/>
-- &#127918; Hoje em dia jogo mais <code>FPS Online</code>, como Battlefield 2042, porém támbem gosto de jogos com apenas modo história, <code>estou zerando Ghost Of Tsushima</code>.</br>
-- &#128253; Meus filmes preferidos são, <code>Interestelar</code>, <code>Ilha do Medo</code> e <code>A origem</code>.</br>
+<p>
+ - &#127891; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> nos cursos de Análise e Desenvolvimento de Sistemas e penso em futuramente em fazer Sistemas de Informação. <br />
 - &#128161; Gosto de solucionar problemas usando a lógica. <br/>
+ - &#127942; Meus hobbies são, desenvolver/estudar programação, escutar música, jogar videogame, ver filmes e conversar com meus amigos.<br/>
+- &#129340; Sou graduado <code>faixa preta</code> em Hapkido, a arte marcial de defesa pessoal coreana.<br />
+- :soccer: Nasci atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão da massa</a>. :rooster:<br />
+- &#127925; Meus estilos de musicas favoritos são:<code> Música eletrônica, rock progressivo, MBP e alguns outros. <br/>
+- &#127918; Hoje em dia jogo mais <code>FPS Online</code>, como Battlefield 2042, porém támbem gosto de jogos com apenas modo história, estou zerando Ghost Of Tsushima.</br>
+- &#128253; Meus filmes preferidos são, Interestelar, Ilha do Medo e A origem.</br>
 - &#128232; Para me encontrar, este é meu <a href="mailto:pedrohrodrigues86@gmail.com" target="_blank">e-mail.</a><br/>
 </p>
 </div>
