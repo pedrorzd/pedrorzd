@@ -79,12 +79,10 @@
 - &#128232; Para me encontrar, este é meu <a href="mailto:pedrohrodrigues86@gmail.com" target="_blank">e-mail.</a><br/>
 </p>
 </div>
+ 
 <div >
 <img alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/developer.gif"/>
 </div>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
 
+</table>
 </div>
