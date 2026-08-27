@@ -29,7 +29,7 @@
 </div>
 <div align="justify">
 
-<i><b>Olá</b> :wave:, sou o <code>Pedro Rodrigues</code>, tenho 21 anos, moro em BH e sou estutande e futuro desenvolvedor de software. Atualmente curso <code>Ánalise e Desenvolvimento de sistenas</code>na <a href="https://newtonpaiva.br" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Pedro Rodrigues</code>, tenho 23 anos, moro em BH e sou estutande e futuro desenvolvedor de software. Atualmente curso <code>Ánalise e Desenvolvimento de sistenas</code>na <a href="https://newtonpaiva.br" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
 
 </div>
 
